@@ -1,3 +1,18 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55967568/97201807-a1f7cb00-1791-11eb-8405-771c12c7e0c1.gif" />
+</p>
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfernandow&hide=html&layout=compact&theme=default" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=danielfernandow&theme=default" /></td>
+    </tr>   
+  </table>
+</center>
+
+
+
 # Hi, I'm Daniel! 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danielfernandow)](https://github.com/danielfernandow)
@@ -8,7 +23,7 @@
 ### About me
 - I am a student of Computer Science, i like the area of Artificial Intelligence, currently studying about Deep Learning.
 
-- [Courses]:  👨🏼‍🏫 - There are online courses in various technologies, Git / Github, Advanced Python - Udemy, Data Science Orientation - Cousera, Machine Learning - Coursera.
+- [Courses]:  👨🏼‍🏫 - There are online courses in various technologies, Git/Github, Advanced Python - Udemy, Data Science Orientation - Cousera, Machine Learning - Coursera.
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=danielfernandow&theme=blue-green)] ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfernandow&theme=blue-green)
 
