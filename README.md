@@ -9,21 +9,22 @@
 # Hi, I'm Daniel! 
 
 ### About me
-- I am a student of Computer Science, i like the area of Artificial Intelligence, currently studying about Deep Learning.
--🌱 I’m currently exploring: Deep Learning
 
+- I am a student of Computer Science, i like the area of Artificial Intelligence, currently studying about Deep Learning.
+
+-🌱 I’m currently exploring: Deep Learning
 
 ### Courses
 
 👨🏼‍🏫 - There are online courses in various technologies:
 
--Git/Github - Udemy
+:octocat: Git/Github - Udemy
 
--Advanced Python - Udemy.
+:snake:  Advanced Python - Udemy.
 
--Data Science Orientation - Cousera.
+💻 Data Science Orientation - Cousera.
 
--Machine Learning - Coursera.
+:robot: Machine Learning - Coursera.
 
 📄 Resume : https://bit.ly/35CWOCe
 
