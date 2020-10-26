@@ -12,6 +12,6 @@
 
 [Languages and Tools]
 
-[![HitCount](https://github.com/danielfernandow?tab=repositories)](https://github.com/danielfernandow?tab=repositories)
+[![github stats](https://github-readme-stats.vercel.app/api?username=danielfernandow&theme=blue-green)](https://github.com/danielfernandow/github-readme-stats)
 
 ![020202](https://user-images.githubusercontent.com/55967568/97201807-a1f7cb00-1791-11eb-8405-771c12c7e0c1.gif)
