@@ -18,7 +18,7 @@ I am a student of Computer Science, i like the area of Artificial Intelligence, 
 
 👨🏼‍🏫 - There are online courses in various technologies:
 
-:octocat: Git/Github - Udemy
+:octocat: Git/Github - Udemy.
 
 :snake:  Advanced Python - Udemy.
 
@@ -44,8 +44,8 @@ I am a student of Computer Science, i like the area of Artificial Intelligence, 
 <center>
   <table>
     <tr>
-        <td><img width="400px" he align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfernandow&hide=html&layout=compact&theme=default" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=danielfernandow&theme=default" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=danielfernandow&theme=default" /></td>
+       <td><img width="400px" he align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfernandow&hide=html&layout=compact&theme=default" /></td>
     </tr>   
   </table>
 </center>
