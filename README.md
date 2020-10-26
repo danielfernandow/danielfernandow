@@ -15,8 +15,17 @@
 
 ### Courses
 
--👨🏼‍🏫 - There are online courses in various technologies, Git/Github, Advanced Python - Udemy, Data Science Orientation - Cousera, Machine Learning - Coursera.
--📄 Resume : https://bit.ly/35CWOCe
+👨🏼‍🏫 - There are online courses in various technologies:
+
+-Git/Github - Udemy
+
+-Advanced Python - Udemy.
+
+-Data Science Orientation - Cousera.
+
+-Machine Learning - Coursera.
+
+📄 Resume : https://bit.ly/35CWOCe
 
 ### Languages and Tools
 
