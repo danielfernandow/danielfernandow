@@ -10,5 +10,5 @@
 
 - [Courses]:  👨🏼‍🏫 - There are online courses in various technologies, Git / Github, Advanced Python - Udemy, Data Science Orientation - Cousera, Machine Learning - Coursera.
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=danielfernandow&theme=blue-green)](http://hits.dwyl.io/danielfernandow/danielfernandow/badges) ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
+[![github stats](https://github-readme-stats.vercel.app/api?username=danielfernandow&theme=blue-green)](http://hits.dwyl.io/danielfernandow/) ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
 ![020202](https://user-images.githubusercontent.com/55967568/97201807-a1f7cb00-1791-11eb-8405-771c12c7e0c1.gif)
