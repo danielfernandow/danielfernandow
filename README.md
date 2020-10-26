@@ -1,4 +1,4 @@
-# Hi, I'm Daniel! 
+# Hi, I'm Daniel! ![1][020202](https://user-images.githubusercontent.com/55967568/97201807-a1f7cb00-1791-11eb-8405-771c12c7e0c1.gif)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danielfernandow)](https://github.com/danielfernandow)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielfernandow/)](https://www.linkedin.com/in/danielfernandow/)
@@ -10,5 +10,5 @@
 
 - [Courses]:  👨🏼‍🏫 - There are online courses in various technologies, Git / Github, Advanced Python - Udemy, Data Science Orientation - Cousera, Machine Learning - Coursera.
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=danielfernandow&theme=blue-green)] ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
-![020202](https://user-images.githubusercontent.com/55967568/97201807-a1f7cb00-1791-11eb-8405-771c12c7e0c1.gif)
+[![github stats](https://github-readme-stats.vercel.app/api?username=danielfernandow&theme=blue-green)] ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=danielferandow&theme=blue-green)
+
