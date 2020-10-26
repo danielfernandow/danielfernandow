@@ -1,4 +1,5 @@
 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/55967568/97201807-a1f7cb00-1791-11eb-8405-771c12c7e0c1.gif" width="360"/>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danielfernandow)](https://github.com/danielfernandow)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielfernandow/)](https://www.linkedin.com/in/danielfernandow/)
@@ -29,9 +30,7 @@
 | Pycharm | GoogleColab | Jupyter Notebook |
 | :---: | :---: | :---: |
 
-<p align="center">
-  <td><img width="500px" height = "200px" align="center" src="https://user-images.githubusercontent.com/55967568/97201807-a1f7cb00-1791-11eb-8405-771c12c7e0c1.gif" /></td>
-</p>
+
 <center>
   <table>
     <tr>
