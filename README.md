@@ -13,7 +13,7 @@
 -🌱 I’m currently exploring: Deep Learning
 
 
-### [Courses]
+### Courses
 
 -👨🏼‍🏫 - There are online courses in various technologies, Git/Github, Advanced Python - Udemy, Data Science Orientation - Cousera, Machine Learning - Coursera.
 -📄 Resume : https://bit.ly/35CWOCe
