@@ -16,7 +16,7 @@ I am a student of Computer Science, i like the area of Artificial Intelligence, 
 
 ### Courses
 
-👨🏼‍🏫 - There are online courses in various technologies:
+👨🏼‍🏫 There are online courses in various technologies:
 
 :octocat: Git/Github - Udemy.
 
