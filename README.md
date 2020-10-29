@@ -18,13 +18,13 @@ I am a student of Computer Science, i like the area of Artificial Intelligence, 
 
 👨🏼‍🏫 There are online courses in various technologies:
 
-:octocat: Git/Github - Udemy.
+:octocat: Git/Github 
 
-:snake:  Advanced Python - Udemy.
+:snake:  Advanced Python 
 
-💻 Data Science Orientation - Cousera.
+💻 Data Science Orientation 
 
-:robot: Machine Learning - Coursera.
+:robot: Machine Learning 
 
 📄 Resume : https://bit.ly/35CWOCe
 
