@@ -22,6 +22,8 @@ I am a student of Computer Science, i like the area of Artificial Intelligence, 
 
 :snake:  Advanced Python 
 
+:coffee: Intermediate Java
+
 💻 Data Science Orientation 
 
 :robot: Machine Learning 
@@ -30,8 +32,8 @@ I am a student of Computer Science, i like the area of Artificial Intelligence, 
 
 ### Languages and Tools
 
-| Python |SQL | Selenium |  Numpy |
-| :---: | :---: | :---: | :---: | 
+| Python | Java | SQL | Selenium |  Numpy |
+| :---: | :---: | :---: | :---: | :---: | 
 
 
 | Github | Pandas |  Octave | Matplotlib |
