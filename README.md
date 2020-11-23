@@ -26,7 +26,7 @@ I am a student of Computer Science, i like the area of Artificial Intelligence, 
 
 :robot: Machine Learning 
 
-📄 Resume : https://bit.ly/35CWOCe
+📄 Resume : https://bit.ly/338K99X
 
 ### Languages and Tools
 
