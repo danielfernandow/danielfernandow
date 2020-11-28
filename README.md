@@ -12,7 +12,7 @@
 
 I am a student of Computer Science, i like the area of Artificial Intelligence, I recently finished the Machine Learning course.
 
-🌱 I’m currently exploring: Deep Learning
+<!-- #  🌱 I’m currently exploring: Deep Learning -->
 
 ### Courses
 
