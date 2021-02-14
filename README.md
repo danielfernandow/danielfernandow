@@ -1,7 +1,7 @@
 
 # Hi, I'm Daniel! 
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/55967568/97201807-a1f7cb00-1791-11eb-8405-771c12c7e0c1.gif" width="360"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/55967568/107891209-cc65c380-6efb-11eb-930b-6e75c64c13c5.gif" width="360"/>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielfernandow/)](https://www.linkedin.com/in/danielfernandow/)
