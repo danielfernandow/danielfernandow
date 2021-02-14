@@ -30,7 +30,7 @@ I am a student of Computer Science, i like the area of Artificial Intelligence, 
 
 ### Languages and Tools
 
-| Python | Java | SQL | Selenium |  Numpy |
+| Python | BI | SQL | Selenium |  Numpy |
 | :---: | :---: | :---: | :---: | :---: | 
 
 
