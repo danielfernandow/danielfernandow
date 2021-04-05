@@ -11,7 +11,7 @@
 
 ### About me
 
-I am a student of Computer Science, i like the area of Artificial Intelligence, I recently finished the Machine Learning course.
+I am a student of Computer Science, i like the area of Artificial Intelligence.
 
 <!-- #  🌱 I’m currently exploring: Deep Learning -->
 
