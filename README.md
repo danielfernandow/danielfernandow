@@ -31,11 +31,11 @@ I am a student of Computer Science, i like the area of Artificial Intelligence.
 
 ### Languages and Tools
 
-| Python | BI | SQL | Selenium |  Numpy |
+| Python | Power BI | SQL | Selenium | Beautiful Soup |
 | :---: | :---: | :---: | :---: | :---: | 
 
 
-| Github | Pandas |  Octave | Matplotlib |
+| Github | Pandas |  Octave | scikit-learn |  
 | :---: | :---: | :---: | :---: |
 
 | Pycharm | GoogleColab | Jupyter Notebook |
