@@ -15,7 +15,7 @@ I am a student of Computer Science, i like the area of Artificial Intelligence.
 
 🌱 I’m currently exploring: Deep Learning.
 
-### Courses
+### Courses/Certified
 
 👨🏼‍🏫 There are online courses in various technologies:
 
