@@ -25,7 +25,7 @@ I am a student of Computer Science, i like the area of Artificial Intelligence.
 
 💻 Data Science Orientation 
 
-:robot: Machine Learning 
+:robot: Machine Learning
 
 <!-- 📄 Resume : https://bit.ly/338K99X -->
 
@@ -44,4 +44,4 @@ I am a student of Computer Science, i like the area of Artificial Intelligence.
 
 ![Daniel F. github stats](https://github-readme-stats.vercel.app/api?username=danielfernandow&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfernandow&layout=compact&show_icons=true&theme=dark)](https://github.com/danielfernandow/danielfernandow/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfernandow&layout=compact&show_icons=true&theme=dark)
