@@ -23,7 +23,7 @@ I am a student of Computer Science, i like the area of Artificial Intelligence.
 
 :snake:  Advanced Python 
 
-💻 Data Science Orientation 
+💻 Data Science  
 
 :robot: Machine Learning
 
